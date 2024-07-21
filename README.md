@@ -4,9 +4,7 @@
 
 The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
 
-![Screenshot](https://github.com/Devesh061102/14-Medical-Chatbot-Llama2/blob/main/Screenshots/Screenshot%202024-07-21%20114843.png?raw=true
-
-)
+![Screenshot](https://github.com/Devesh061102/14-Medical-Chatbot-Llama2/blob/main/Screenshots/Screenshot%202024-07-21%20114843.png?raw=true)
 
 ## Installation
 
